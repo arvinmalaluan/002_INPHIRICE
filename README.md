@@ -2,7 +2,7 @@
 
 # REAP: Rice Efficacy Across Philippines: A Data-Driven Cross-Dataset Analysis with India
 
-This project is a comparative analysis between the agriculture of India and the Philippines focusing in rice growing, using Python for data analytics. It aims to provide insights into the similarities and differences between these two methods, with a focus on identifying key factors that contribute to their effectiveness and areas for potential improvement.
+This project entails a comparative analysis between the agricultural practices of India and the Philippines, with a specific focus on rice cultivation. Python will be employed for data analytics, aiming to provide meaningful insights into the similarities and differences between these two methods. The project seeks to identify key factors contributing to the effectiveness of these practices, while highlighting areas for potential improvement.
 
 ## Introduction
 Philippines is well-known for its agricultural lands. In fact, the country is even considered an agricultural country because of its favorable climate and fertile lands that support wide range of agricultural goods. 
