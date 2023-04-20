@@ -1,4 +1,4 @@
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="assets/Untitled.png" alt="Girl in a jacket" width="500" height="600">
 
 # INPHIRICE: Comparative Analysis of Rice Exports between India and the Philippines using Data Analytics
 
