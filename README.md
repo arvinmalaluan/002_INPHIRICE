@@ -6,7 +6,7 @@ This project entails a comparative analysis between the agricultural practices o
 
 ## Introduction
 Gaitskell (1998) highlighted the tendency of developing countries to prioritize industry and urbanization over agriculture when it comes to economic development. Although there are valid arguments in favor of industry, many developing countries have now shifted towards promoting the growth of both agriculture and industry or giving priority to agriculture. The passage outlines the reasons for this change and emphasizes the urgent need to improve agriculture in developing countries. 
-[1](#section1)
+[[1]](#section1)
 
 //start discussing the importance of agriculture in economy of a country.
 //start the transition from the generic intro to ph
@@ -25,4 +25,4 @@ However, despite its vast agricultural resources, it is also one of the major im
 
 #### References
 <a name="section1" href="https://www.cabdirect.org/cabdirect/abstract/19691800137">
-Importance of agriculture in economic development.</a>
+[1] Importance of agriculture in economic development.</a>
