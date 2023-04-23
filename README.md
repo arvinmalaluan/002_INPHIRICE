@@ -8,7 +8,7 @@ This project entails a comparative analysis between the agricultural practices o
 Gaitskell (1998) highlighted the tendency of developing countries to prioritize industry and urbanization over agriculture when it comes to economic development. Although there are valid arguments in favor of industry, many developing countries have now shifted towards promoting the growth of both agriculture and industry or giving priority to agriculture. The passage outlines the reasons for this change and emphasizes the urgent need to improve agriculture in developing countries. 
 [[1]](#section1)
 
-*Why are some countries doing better than others?* A study conducted by Godoy & Dewbre (2010) sought to answer the question by  searching for common features among twenty-five developing nations that have accomplished remarkable progress in diminishing extreme poverty during the previous twenty to twenty-five years. [[2]](#section2)
+*Why are some countries doing better than others?* A study conducted by Godoy & Dewbre (2010) sought to answer the question by  searching for common features among twenty-five developing nations that have accomplished remarkable progress in diminishing extreme poverty during the previous twenty to twenty-five years. The results obtained from time-series and cross-section regression analysis indicate that economic growth plays a significant role in poverty reduction. However, the composition of growth, particularly the increase in agricultural incomes, is crucial in influencing the magnitude of poverty reduction. This highlights the importance of considering the sector mix of growth in poverty reduction strategies.[[2]](#section2)
 
 //start discussing the importance of agriculture in economy of a country.
 //start the transition from the generic intro to ph
@@ -26,7 +26,7 @@ However, despite its vast agricultural resources, it is also one of the major im
 ## Expected Output
 
 #### References
-<a name="section1" href="https://www.cabdirect.org/cabdirect/abstract/19691800137" target="_blank">
+<a name="section1" href="https://www.cabdirect.org/cabdirect/abstract/19691800137">
 [1] Importance of agriculture in economic development.</a><br>
-<a name="section1" href="https://d1wqtxts1xzle7.cloudfront.net/54899047/enomics_poverty-libre.pdf?1509681053=&response-content-disposition=inline%3B+filename%3DEconomic_Importance_of_Agriculture_for_P.pdf&Expires=1682270407&Signature=NydW5a4vTOJGb6u8mhwqzOrnnd4wOLbUnRdJkpeC7mbrImULg9s3W62hUdQuqZ2axYVX62CRExnTrBJ81RIWHX2BKipjiLxidHiDE~7DH6Yq-8MeP0FwJ-x-UKZq8CPF6976kpxfoCXKzAGVjRIfOLguKTbbFphgthuvR3xh4lFPdr9QFHaSLS9gx5IWbo8hd15tDYF6iRbghHIcXIbDJTrc9eRgR8fsshrPxd3NiFpg~r2bWo9Z36DLEIqnv8vOFrwWK-cTpmhqmygGqxxMdinuI5RsnmOhf6dXzPDgj7NipRZTHVc4t-OPe0PRygGn4nXhxGV6PBbcuhCRp0nuxw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" target="_blank">
-[1] Economic Importance of Agriculture for Poverty Reduction.</a>
+<a name="section2" href="https://d1wqtxts1xzle7.cloudfront.net/54899047/enomics_poverty-libre.pdf?1509681053=&response-content-disposition=inline%3B+filename%3DEconomic_Importance_of_Agriculture_for_P.pdf&Expires=1682270407&Signature=NydW5a4vTOJGb6u8mhwqzOrnnd4wOLbUnRdJkpeC7mbrImULg9s3W62hUdQuqZ2axYVX62CRExnTrBJ81RIWHX2BKipjiLxidHiDE~7DH6Yq-8MeP0FwJ-x-UKZq8CPF6976kpxfoCXKzAGVjRIfOLguKTbbFphgthuvR3xh4lFPdr9QFHaSLS9gx5IWbo8hd15tDYF6iRbghHIcXIbDJTrc9eRgR8fsshrPxd3NiFpg~r2bWo9Z36DLEIqnv8vOFrwWK-cTpmhqmygGqxxMdinuI5RsnmOhf6dXzPDgj7NipRZTHVc4t-OPe0PRygGn4nXhxGV6PBbcuhCRp0nuxw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">
+[2] Economic Importance of Agriculture for Poverty Reduction.</a>
