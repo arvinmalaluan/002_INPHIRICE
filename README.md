@@ -11,12 +11,7 @@ Gaitskell (1998) highlighted the tendency of developing countries to prioritize 
 *Why are some countries doing better than others?* <br><br>
 A study conducted by Godoy & Dewbre (2010) sought to answer the question by  searching for common features among twenty-five developing nations that have accomplished remarkable progress in diminishing extreme poverty during the previous twenty to twenty-five years. The results obtained from time-series and cross-section regression analysis indicate that economic growth plays a significant role in poverty reduction. However, the composition of growth, particularly the increase in agricultural incomes, is crucial in influencing the magnitude of poverty reduction. This highlights the importance of considering the sector mix of growth in poverty reduction strategies.[[2]](#section2)
 
-//start discussing the importance of agriculture in economy of a country.
-//start the transition from the generic intro to ph
-
-Philippines is well-known for its agricultural lands. In fact, the country is even considered an agricultural country because of its favorable climate and fertile lands that support wide range of agricultural goods. 
-
-However, despite its vast agricultural resources, it is also one of the major importers of agricultural goods. This poses a significant challenge to the country's food security and economic sustainability. While the country produces a wide variety of crops, it is still heavily reliant on imported goods such as wheat, dairy products, and meat, among others. The reasons for this include insufficient infrastructure, lack of modernization in the agricultural sector, and inadequate government support for local farmers. These issues have led to low productivity levels, high costs of production, and limited access to markets.
+Moving towards a more focused perspective, Philippines is well-known for its agricultural lands. The Philippines has 30 million hectares of land, with nearly half (47%) dedicated to agriculture, and the most fertile agricultural areas are situated near urban and high population density regions. To achieve food security, sustainability, social equity, and global competitiveness, the agriculture sector in the Philippines takes measures such as protecting and developing watersheds, managing agricultural land and water resources, establishing and rehabilitating irrigation systems, granting preferential access to productive assets to marginalized sectors, and providing necessary support services.[[5]](#section5)
 
 ## Problem Statement
 
@@ -50,4 +45,5 @@ As all the above points have demonstrated, the REAP project can use data-driven 
 <a name="section3" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2023/01/22/asian-insider---the-philippines-has-a-staple-problem-with-rice---and-its-not-going-away-soon#:~:text=Experts%20told%20The%20Straits%20Times,remain%20among%20the%20country's%20poorest."> 
 [3] Asian Insider - The Philippines has a staple problem with rice – and it’s not going away soon</a><br>
 <a name="section4" href="https://drdpat.bih.nic.in/Status%20Paper%20-%2009.htm#:~:text=Often%20rice%20crop%20suffers%20with,drought%20prone%20rainfed%20lowland%20areas.">
-[4] Rice in India : A Status Paper</a>
+[4] Rice in India : A Status Paper</a><br>
+<a name="section5" href="https://pinas.dlsu.edu.ph/gov/agriculture.html"> [5] Agriculture </a>
