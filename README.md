@@ -41,8 +41,12 @@ To address the shortage of accurate and timely data on rice production, consumpt
 The study will compare rice production in the Philippines and India and identify the primary factors influencing rice production in both nations. The study will propose solutions to enhance the efficiency and sustainability of rice production, considering each country's unique circumstances..
 
 
-
 ## Expected Output
+
+
+This project aims to conduct a comprehensive analysis of the rice industry in the Philippines and India, including identifying critical factors that cause problems or impact rice production in both nations. Based on the collected data, the project will generate helpful information comprising recommendations for policies and strategies to enhance the efficiency and sustainability of rice production in both countries. In addition, it will provide insight into potential avenues for cooperation and information exchange between the two countries, including collaborations in trade, research, and technology transfer. Creating predictive models will allow for accurate rice production, consumption, and price predictions in the Philippines and India. Creating a database of rice-related information that policymakers, researchers, and other stakeholders can use to inform decision-making and policy development.
+
+
 
 #### References
 <a name="section1" href="https://www.cabdirect.org/cabdirect/abstract/19691800137">
