@@ -38,7 +38,7 @@ REAP seeks to comprehensively analyze the rice industry in the Philippines and I
 
 To address the shortage of accurate and timely data on rice production, consumption, and distribution, this study will collect data on various aspects of the rice industry, including but not limited to land use, production, consumption, trade, prices, inputs, and technologies employed. In addition, the study will investigate the socioeconomic factors that influence rice production, such as land tenure, labor availability, access to credit, and government policies.
 
-The study will compare rice production in the Philippines and India and identify the primary factors influencing rice production in both nations. The study will propose solutions to enhance the efficiency and sustainability of rice production, considering each country's unique circumstances.
+The study will compare rice production in the Philippines and India and identify the primary factors influencing rice production in both nations. The study will propose solutions to enhance the efficiency and sustainability of rice production, considering each country's unique circumstances..
 
 
 
