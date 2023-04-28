@@ -11,7 +11,7 @@ Gaitskell (1998) highlighted the tendency of developing countries to prioritize 
 *Why are some countries doing better than others?* <br><br>
 A study conducted by Godoy & Dewbre (2010) sought to answer the question by  searching for common features among twenty-five developing nations that have accomplished remarkable progress in diminishing extreme poverty during the previous twenty to twenty-five years. The results obtained from time-series and cross-section regression analysis indicate that economic growth plays a significant role in poverty reduction. However, the composition of growth, particularly the increase in agricultural incomes, is crucial in influencing the magnitude of poverty reduction. This highlights the importance of considering the sector mix of growth in poverty reduction strategies.[[2]](#section2)
 
-Moving towards a more focused perspective, Philippines is well-known for its agricultural lands. The Philippines has 30 million hectares of land, with nearly half (47%) dedicated to agriculture, and the most fertile agricultural areas are situated near urban and high population density regions. To achieve food security, sustainability, social equity, and global competitiveness, the agriculture sector in the Philippines takes measures such as protecting and developing watersheds, managing agricultural land and water resources, establishing and rehabilitating irrigation systems, granting preferential access to productive assets to marginalized sectors, and providing necessary support services.[[5]](#section5)
+Moving towards a more focused perspective, Philippines is well-known for its agricultural lands. The Philippines has 30 million hectares of land, with nearly half (47%) dedicated to agriculture, and the most fertile agricultural areas are situated near urban and high population density regions. To achieve food security, sustainability, social equity, and global competitiveness, the agriculture sector in the Philippines takes measures such as protecting and developing watersheds, managing agricultural land and water resources, establishing and rehabilitating irrigation systems, granting preferential access to productive assets to marginalized sectors, and providing necessary support services.[[3]](#section3)
 
 ## Problem Statement
 
@@ -19,9 +19,9 @@ The rice industry in the Philippines faces various challenges that impact its ov
 
 This study, named REAP (Rice Efficacy Across Philippines), aims to conduct a comprehensive analysis of the rice industry in the Philippines and India by collecting and analyzing data from various sources, such as government agencies, private companies, and academic institutions. Through this analysis, the study intends to identify the key factors that affect rice production in both countries, and propose solutions to improve the efficiency and sustainability of rice production.
 
-According to experts interviewed by The Straits Times, the Philippines' failure to maintain its rice self-sufficiency in subsequent years was caused by the industry's lack of modernization, the government's flawed import policies, extreme weather conditions, and a lack of support for farmers, who continue to be among the poorest people in the nation (Straits, 2023).[[3]](#section3)
+According to experts interviewed by The Straits Times, the Philippines' failure to maintain its rice self-sufficiency in subsequent years was caused by the industry's lack of modernization, the government's flawed import policies, extreme weather conditions, and a lack of support for farmers, who continue to be among the poorest people in the nation (Straits, 2023).[[4]](#section4)
 
-Moreover, there is no infrastructure for life-saving irrigation, especially in upland and drought-prone rainfed lowland areas, and India's rice crop frequently experiences soil moisture stress as a result of irregular and insufficient rainfall. In upland soils, rain water flows down quickly and farmers are unable to conserve the soil moisture (Status Paper - 09, n.d.).[[4]](#section4)
+Moreover, there is no infrastructure for life-saving irrigation, especially in upland and drought-prone rainfed lowland areas, and India's rice crop frequently experiences soil moisture stress as a result of irregular and insufficient rainfall. In upland soils, rain water flows down quickly and farmers are unable to conserve the soil moisture (Status Paper - 09, n.d.).[[5]](#section5)
 
 As rice is a staple food in the Philippines and India, understanding the efficacy of rice production in these countries is of utmost importance. The proposed study can contribute to the development of policies that promote sustainable rice production, reduce the impact of natural disasters, and ensure food security in these countries.
 
@@ -55,8 +55,9 @@ The overarching goal of the project is to analyze the rice markets in the Philip
 [1] Importance of agriculture in economic development.</a><br>
 <a name="section2" href="https://d1wqtxts1xzle7.cloudfront.net/54899047/enomics_poverty-libre.pdf?1509681053=&response-content-disposition=inline%3B+filename%3DEconomic_Importance_of_Agriculture_for_P.pdf&Expires=1682270407&Signature=NydW5a4vTOJGb6u8mhwqzOrnnd4wOLbUnRdJkpeC7mbrImULg9s3W62hUdQuqZ2axYVX62CRExnTrBJ81RIWHX2BKipjiLxidHiDE~7DH6Yq-8MeP0FwJ-x-UKZq8CPF6976kpxfoCXKzAGVjRIfOLguKTbbFphgthuvR3xh4lFPdr9QFHaSLS9gx5IWbo8hd15tDYF6iRbghHIcXIbDJTrc9eRgR8fsshrPxd3NiFpg~r2bWo9Z36DLEIqnv8vOFrwWK-cTpmhqmygGqxxMdinuI5RsnmOhf6dXzPDgj7NipRZTHVc4t-OPe0PRygGn4nXhxGV6PBbcuhCRp0nuxw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">
 [2] Economic Importance of Agriculture for Poverty Reduction.</a><br>
-<a name="section3" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2023/01/22/asian-insider---the-philippines-has-a-staple-problem-with-rice---and-its-not-going-away-soon#:~:text=Experts%20told%20The%20Straits%20Times,remain%20among%20the%20country's%20poorest."> 
-[3] Asian Insider - The Philippines has a staple problem with rice – and it’s not going away soon</a><br>
-<a name="section4" href="https://drdpat.bih.nic.in/Status%20Paper%20-%2009.htm#:~:text=Often%20rice%20crop%20suffers%20with,drought%20prone%20rainfed%20lowland%20areas.">
-[4] Rice in India : A Status Paper</a><br>
-<a name="section5" href="https://pinas.dlsu.edu.ph/gov/agriculture.html"> [5] Agriculture </a>
+<a name="section3" href="https://pinas.dlsu.edu.ph/gov/agriculture.html"> [3] Agriculture </a>
+<a name="section4" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2023/01/22/asian-insider---the-philippines-has-a-staple-problem-with-rice---and-its-not-going-away-soon#:~:text=Experts%20told%20The%20Straits%20Times,remain%20among%20the%20country's%20poorest."> 
+[4] Asian Insider - The Philippines has a staple problem with rice – and it’s not going away soon</a><br>
+<a name="section5" href="https://drdpat.bih.nic.in/Status%20Paper%20-%2009.htm#:~:text=Often%20rice%20crop%20suffers%20with,drought%20prone%20rainfed%20lowland%20areas.">
+[5] Rice in India : A Status Paper</a><br>
+
