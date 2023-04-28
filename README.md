@@ -55,7 +55,7 @@ The overarching goal of the project is to analyze the rice markets in the Philip
 [1] Importance of agriculture in economic development.</a><br>
 <a name="section2" href="https://d1wqtxts1xzle7.cloudfront.net/54899047/enomics_poverty-libre.pdf?1509681053=&response-content-disposition=inline%3B+filename%3DEconomic_Importance_of_Agriculture_for_P.pdf&Expires=1682270407&Signature=NydW5a4vTOJGb6u8mhwqzOrnnd4wOLbUnRdJkpeC7mbrImULg9s3W62hUdQuqZ2axYVX62CRExnTrBJ81RIWHX2BKipjiLxidHiDE~7DH6Yq-8MeP0FwJ-x-UKZq8CPF6976kpxfoCXKzAGVjRIfOLguKTbbFphgthuvR3xh4lFPdr9QFHaSLS9gx5IWbo8hd15tDYF6iRbghHIcXIbDJTrc9eRgR8fsshrPxd3NiFpg~r2bWo9Z36DLEIqnv8vOFrwWK-cTpmhqmygGqxxMdinuI5RsnmOhf6dXzPDgj7NipRZTHVc4t-OPe0PRygGn4nXhxGV6PBbcuhCRp0nuxw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">
 [2] Economic Importance of Agriculture for Poverty Reduction.</a><br>
-<a name="section3" href="https://pinas.dlsu.edu.ph/gov/agriculture.html"> [3] Agriculture </a>
+<a name="section3" href="https://pinas.dlsu.edu.ph/gov/agriculture.html"> [3] Agriculture </a><br>
 <a name="section4" href="https://www.thestar.com.my/aseanplus/aseanplus-news/2023/01/22/asian-insider---the-philippines-has-a-staple-problem-with-rice---and-its-not-going-away-soon#:~:text=Experts%20told%20The%20Straits%20Times,remain%20among%20the%20country's%20poorest."> 
 [4] Asian Insider - The Philippines has a staple problem with rice – and it’s not going away soon</a><br>
 <a name="section5" href="https://drdpat.bih.nic.in/Status%20Paper%20-%2009.htm#:~:text=Often%20rice%20crop%20suffers%20with,drought%20prone%20rainfed%20lowland%20areas.">
