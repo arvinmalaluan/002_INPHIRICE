@@ -1,4 +1,4 @@
-<img src="assets/images/project-bat-404.png" width="1000" height="auto">
+<img src="assets/images/" width="1000" height="auto">
 
 # REAP: Rice Efficacy Across Philippines: A Data-Driven Cross-Dataset Analysis with India
 
