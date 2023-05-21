@@ -1,6 +1,6 @@
-<img src="assets/images/project-bat-404.png" width="1000" height="auto">
+<img src="assets/images/" width="1000" height="auto">
 
-# REAP: Rice Efficacy Across Philippines: A Data-Driven Cross-Dataset Analysis with India
+# REAP: Rice Efficacy Across Philippines: A Data-Driven Comparative Analysis with India
 
 This project entails a comparative analysis between the agricultural practices of India and the Philippines, with a specific focus on rice cultivation. Python will be employed for data analytics, aiming to provide meaningful insights into the similarities and differences between these two methods. The project seeks to identify key factors contributing to the effectiveness of these practices, while highlighting areas for potential improvement.
 
@@ -17,7 +17,7 @@ In conclusion, agriculture remains a crucial sector for the economic development
 
 ## Problem Statement
 
-The rice industry in the Philippines faces various challenges that impact its overall efficiency and profitability. These challenges include low productivity, high input costs, and vulnerability to natural disasters. The lack of accurate and timely data on rice production, consumption, and distribution further complicates the situation. To address these issues, a data-driven cross-dataset analysis is necessary to evaluate the efficacy of rice production in the Philippines and compare it with the rice production in India, another major rice-producing country in the world. 
+The rice industry in the Philippines faces various challenges that impact its overall efficiency and profitability. These challenges include low productivity, high input costs, and vulnerability to natural disasters. The lack of accurate and timely data on rice production, consumption, and distribution further complicates the situation. To address these issues, a data-driven comparative analysis is necessary to evaluate the efficacy of rice production in the Philippines and compare it with the rice production in India, another major rice-producing country in the world. 
 
 This study, named REAP (Rice Efficacy Across Philippines), aims to conduct a comprehensive analysis of the rice industry in the Philippines and India by collecting and analyzing data from various sources, such as government agencies, private companies, and academic institutions. Through this analysis, the study intends to identify the key factors that affect rice production in both countries, and propose solutions to improve the efficiency and sustainability of rice production.
 
@@ -29,14 +29,14 @@ As rice is a staple food in the Philippines and India, understanding the efficac
 
 ## Significance of the Proposed Project
 
-Finding patterns, trends, and best practices that can be adopted or changed to match the context of the Philippine rice business can be accomplished by analyzing cross-datasets from both nations. REAP can also point out prospective avenues for cooperation and information exchange between the two nations, such as collaborations in trade, research, and technology transfer.
+Finding patterns, trends, and best practices that can be adopted or changed to match the context of the Philippine rice business can be accomplished by comparing datasets from both nations. REAP can also point out prospective avenues for cooperation and information exchange between the two nations, such as collaborations in trade, research, and technology transfer.
 
 Additionally, the application of data-driven analysis techniques, including machine learning and predictive modeling, can deliver precise and useful insights that can influence investment choices, agricultural practices, and policy-making. Both farmers and consumers in the Philippines may benefit from increased rice productivity, cost-effectiveness, and sustainability as a result of this.
 
-As all the above points have demonstrated, the REAP project can use data-driven cross-dataset analysis with India to considerably advance the rice industry in the Philippines. It can have a positive effect on the nation's economy and food security and has the ability to produce insightful and useful answers to the problems the industry faces.
+As all the above points have demonstrated, the REAP project can use data-driven comparative analysis with India to considerably advance the rice industry in the Philippines. It can have a positive effect on the nation's economy and food security and has the ability to produce insightful and useful answers to the problems the industry faces.
 
 ## Methods
-REAP (Rice Efficacy Across the Philippines) seeks to comparatively analyze the rice industry in the Philippines and India by collecting and analyzing data from various sources, including government agencies, private businesses, and academic institutions. The data will be gathered using the secondary data collecting approach. Furthermore, data-driven cross-dataset analysis will be utilized to generate current insights and recommendations for potential improvement. 
+REAP (Rice Efficacy Across the Philippines) seeks to comparatively analyze the rice industry in the Philippines and India by collecting and analyzing data from various sources, including government agencies, private businesses, and academic institutions. The data will be gathered using the secondary data collecting approach. Furthermore, data-driven comparative analysis will be utilized to generate current insights and recommendations for potential improvement. 
 
 In addressing the shortage of accurate and timely data on rice production, consumption, and distribution, this study will collect data on various aspects of the rice industry, including but not limited to land use, production, consumption, trade, prices, inputs, and technologies employed. In addition, the study will investigate the socioeconomic factors that influence rice production, such as land tenure, labor availability, access to credit, and government policies. 
 
