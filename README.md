@@ -38,9 +38,9 @@ As all the above points have demonstrated, the REAP project can use data-driven 
 ## Methods
 REAP (Rice Efficacy Across the Philippines) seeks to comparatively analyze the rice industry in the Philippines and India by collecting and analyzing data from various sources, including government agencies, private businesses, and academic institutions. The data will be gathered using the secondary data collecting approach. Furthermore, data-driven comparative analysis will be utilized to generate current insights and recommendations for potential improvement. 
 
-In addressing the shortage of accurate and timely data on rice production, consumption, and distribution, this study will collect data on various aspects of the rice industry, including but not limited to land use, production, consumption, trade, prices, inputs, and technologies employed. In addition, the study will investigate the socioeconomic factors that influence rice production, such as land tenure, labor availability, access to credit, and government policies. 
+In addressing the shortage of accurate and timely data on rice production, consumption, and distribution, this project will collect data on various aspects of the rice industry, including but not limited to land use, production, consumption, trade, prices, inputs, and technologies employed. In addition, the project will investigate the socioeconomic factors that influence rice production, such as land tenure, labor availability, access to credit, and government policies. 
 
-The study will compare rice production in the Philippines and India and identify the primary factors influencing rice production in both nations. The study will propose solutions to enhance the efficiency and sustainability of rice production, considering each country's unique circumstances. 
+The project will compare rice production in the Philippines and India and identify the primary factors influencing rice production in both nations. The project will propose solutions to enhance the efficiency and sustainability of rice production, considering each country's unique circumstances. 
 
 
 ## Expected Output
