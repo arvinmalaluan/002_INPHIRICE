@@ -16,8 +16,7 @@ In conclusion, agriculture remains a crucial sector for the economic development
 
 ## Problem Statement
 
-<img src="assets/images/ps.png" width="auto" height="auto">
- The rice industry in the Philippines faces various challenges that impact its overall efficiency and profitability. These challenges include low productivity, high input costs, and vulnerability to natural disasters. The lack of accurate and timely data on rice production, consumption, and distribution further complicates the situation. To address these issues, a data-driven comparative analysis is necessary to evaluate the efficacy of rice production in the Philippines and compare it with the rice production in India, another major rice-producing country in the world.
+<img src="assets/images/ps.png" width="250" height="auto">  The rice industry in the Philippines faces various challenges that impact its overall efficiency and profitability. These challenges include low productivity, high input costs, and vulnerability to natural disasters. The lack of accurate and timely data on rice production, consumption, and distribution further complicates the situation. To address these issues, a data-driven comparative analysis is necessary to evaluate the efficacy of rice production in the Philippines and compare it with the rice production in India, another major rice-producing country in the world.
 
 This study, named REAP (Rice Efficacy Across Philippines), aims to conduct a comprehensive analysis of the rice industry in the Philippines and India by collecting and analyzing data from various sources, such as government agencies, private companies, and academic institutions. Through this analysis, the study intends to identify the key factors that affect rice production in both countries and propose solutions to improve the efficiency and sustainability of rice production.
 
@@ -33,7 +32,7 @@ Finding patterns, trends, and best practices that can be adopted or changed to m
 
 Additionally, the application of data-driven analysis techniques, including machine learning and predictive modeling, can provide precise and valuable insights that can influence investment choices, agricultural practices, and policy-making. Both farmers and consumers in the Philippines may benefit from increased rice productivity, cost-effectiveness, and sustainability as a result of this.
 
-As demonstrated by all the points above, the REAP project can significantly advance the rice industry in the Philippines through data-driven comparative analysis with India. It can have a positive impact on the nation's economy and food security and offer insightful and practical solutions to the challenges faced by the industry. <img src="assets/images/signi.png" width="auto" height="auto"> 
+As demonstrated by all the points above, the REAP project can significantly advance the rice industry in the Philippines through data-driven comparative analysis with India. It can have a positive impact on the nation's economy and food security and offer insightful and practical solutions to the challenges faced by the industry.  <img src="assets/images/signi.png" width="250" height="auto"> 
 
 ## Methods
 REAP (Rice Efficacy Across the Philippines) seeks to comparatively analyze the rice industry in the Philippines and India by collecting and analyzing data from various sources, including government agencies, private businesses, and academic institutions. The data will be gathered using the secondary data collecting approach. Furthermore, data-driven comparative analysis will be utilized to generate current insights and recommendations for potential improvement. 
