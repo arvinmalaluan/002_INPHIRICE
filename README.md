@@ -44,11 +44,9 @@ The project will compare rice production in the Philippines and India and identi
 
 ## Expected Output
 
-The overarching goal of the project is to analyze the rice markets in the Philippines and India, including the factors affecting or hindering rice production. To improve the efficiency and longevity of rice cultivation, the effort will collect data and offer useful insights, such as recommendations for policies and strategies. Possible collaboration and information-sharing channels between the two countries will also be explored as part of this endeavor. That might include working together on things like trade, science, and tech transfer. The Philippines and India will be able to anticipate the future of rice production, consumption, and pricing with the use of cutting-edge predictive algorithms. In addition, thanks to this effort, researchers, policymakers, and other stakeholders will have access to a centralized database of rice-related data.
+The overarching goal of the project is to analyze the rice markets in the Philippines and India, including the factors that affect or hinder rice production. The project aims to improve the efficiency and longevity of rice cultivation by collecting data and providing useful insights, such as policy recommendations and strategies. As part of this endeavor, possible channels for collaboration and information sharing between the two countries will be explored, which may involve areas such as trade, science, and technology transfer.
 
-
-
-
+By utilizing cutting-edge predictive algorithms, the Philippines and India will be able to anticipate the future of rice production, consumption, and pricing. Furthermore, this effort will establish a centralized database of rice-related data, granting researchers, policymakers, and other stakeholders access to valuable information.
 
 
 #### References
