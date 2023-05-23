@@ -32,7 +32,8 @@ Finding patterns, trends, and best practices that can be adopted or changed to m
 
 Additionally, the application of data-driven analysis techniques, including machine learning and predictive modeling, can provide precise and valuable insights that can influence investment choices, agricultural practices, and policy-making. Both farmers and consumers in the Philippines may benefit from increased rice productivity, cost-effectiveness, and sustainability as a result of this.
 
-As demonstrated by all the points above, the REAP project can significantly advance the rice industry in the Philippines through data-driven comparative analysis with India. It can have a positive impact on the nation's economy and food security and offer insightful and practical solutions to the challenges faced by the industry.  <img src="assets/images/signi.png" width="250" height="auto"> 
+As demonstrated by all the points above, the REAP project can significantly advance the rice industry in the Philippines through data-driven comparative analysis with India. It can have a positive impact on the nation's economy and food security and offer insightful and practical solutions to the challenges faced by the industry. <img src="assets/images/signi.png" width="1000" height="auto"> 
+
 
 ## Methods
 REAP (Rice Efficacy Across the Philippines) seeks to comparatively analyze the rice industry in the Philippines and India by collecting and analyzing data from various sources, including government agencies, private businesses, and academic institutions. The data will be gathered using the secondary data collecting approach. Furthermore, data-driven comparative analysis will be utilized to generate current insights and recommendations for potential improvement. 
