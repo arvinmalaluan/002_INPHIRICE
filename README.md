@@ -32,7 +32,7 @@ Finding patterns, trends, and best practices that can be adopted or changed to m
 
 Additionally, the application of data-driven analysis techniques, including machine learning and predictive modeling, can provide precise and valuable insights that can influence investment choices, agricultural practices, and policy-making. Both farmers and consumers in the Philippines may benefit from increased rice productivity, cost-effectiveness, and sustainability as a result of this.  
 
-As demonstrated by all the points above, the REAP project can significantly advance the rice industry in the Philippines through data-driven comparative analysis with India. It can have a positive impact on the nation's economy and food security and offer insightful and practical solutions to the challenges faced by the industry. <img src="assets/images/sig.png" width="1000" height="500"> 
+As demonstrated by all the points above, the REAP project can significantly advance the rice industry in the Philippines through data-driven comparative analysis with India. It can have a positive impact on the nation's economy and food security and offer insightful and practical solutions to the challenges faced by the industry. <img src="assets/images/sig.png" width="1000" height="400"> 
 
 
 ## Methods
