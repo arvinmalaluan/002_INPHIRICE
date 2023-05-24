@@ -42,14 +42,12 @@ REAP (Rice Efficacy Across the Philippines) seeks to comparatively analyze the r
 
 In addressing the shortage of accurate and timely data on rice production, consumption, and distribution, this project will collect data on various aspects of the rice industry, including but not limited to land use, production, consumption, trade, prices, inputs, and technologies employed. In addition, the project will investigate the socioeconomic factors that influence rice production, such as land tenure, labor availability, access to credit, and government policies. 
 
-The project will compare rice production in the Philippines and India and identify the primary factors influencing rice production in both nations. The project will propose solutions to enhance the efficiency and sustainability of rice production, considering each country's unique circumstances. 
+The project will utilize various datasets, including average rainfall per year, mean temperature, normalized rice production data, percentage of agricultural lands used, and forest lands, to conduct a comprehensive comparative analysis of rice production in the Philippines and India. These datasets will provide crucial information on the environmental and land-use factors impacting rice cultivation in both countries. By considering these diverse factors, the study aims to gain a holistic understanding of the complexities underlying rice production in the Philippines and India. The findings will contribute to the identification of effective strategies and policies for optimizing rice productivity, promoting sustainable land use, and ensuring the long-term viability of the rice industry in both nations.
 
 
 ## Expected Output
 
 The overarching goal of the project is to analyze the rice markets in the Philippines and India, including the factors that affect or hinder rice production. The project aims to improve the efficiency and longevity of rice cultivation by collecting data and providing useful insights, such as policy recommendations and strategies. As part of this endeavor, possible channels for collaboration and information sharing between the two countries will be explored, which may involve areas such as trade, science, and technology transfer.
-
-By utilizing cutting-edge predictive algorithms, the Philippines and India will be able to anticipate the future of rice production, consumption, and pricing. Furthermore, this effort will establish a centralized database of rice-related data, granting researchers, policymakers, and other stakeholders access to valuable information.
 
 
 #### References
