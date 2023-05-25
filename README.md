@@ -4,7 +4,7 @@
 
 This project entails a comparative analysis of the agricultural practices of India and the Philippines, with a specific focus on rice cultivation. Python will be employed for data analytics. It aims to provide meaningful insights into the similarities and differences between these two methods. The project seeks to identify key factors contributing to the effectiveness of these practices while highlighting areas for potential improvement.
 
-<img src="assets/images/team members.png" width="1000" height="550">
+<img src="assets/images/team members.png" width="1000" height="575">
 
 ## Introduction
 Gaitskell (1998) highlighted the tendency of developing countries to prioritize industry and urbanization over agriculture when it comes to economic development. Although there are valid arguments in favor of industry, many developing countries have now shifted towards promoting the growth of both agriculture and industry or giving priority to agriculture. The passage outlines the reasons for this change and emphasizes the urgent need to improve agriculture in developing countries. [[1]](#section1)
